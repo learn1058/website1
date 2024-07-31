@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add Map</title>
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <script type="module" src="./index.js" defer></script>
+
+</head>
+<body>
+  <h3>Smart Patrol Tech</h3>
+  <!-- The div element for the map -->
+  <div id="map"></div>
+  
+  <!-- Load the Google Maps JavaScript API script -->
+  <script>
+    (function() {
+      const script = document.createElement('script');
+      script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyDW8qk1BAVBOe4yyKDtq0opjORBDCco4vE&callback=initMap&libraries=places,geometry`;
+      script.async = true;
+      script.defer = true;
+      document.head.appendChild(script);
+    })();
+  </script>
+
+</body>
+</html>
