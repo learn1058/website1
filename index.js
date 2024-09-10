@@ -21,7 +21,7 @@ async function initMap() {
     { lat: 2.31583, lng: 102.32453, title: "PEJABAT PEMBANGUNAN", check: 13, imgUrl: "https://www.dropbox.com/scl/fi/agc91ttcum2t0rvdaede7/13.jpg?rlkey=u7y3x1o0vbtshx9vqrngnwk6h&st=nt77p2ya&dl=1" },
     { lat: 2.31433, lng: 102.32353, title: "PUSAT KOKU", check: 14, imgUrl: "https://www.dropbox.com/scl/fi/vf01x4zrbf5dnncxf487c/14.jpg?rlkey=lpmw08bueh40a2zvelpytho4t&st=h9fmy5l4&dl=1" },
     { lat: 2.3126, lng: 102.32269, title: "KDK", check: 15, imgUrl:"https://www.dropbox.com/scl/fi/d5jmcm97ge1fmc0kou5hf/15.jpg?rlkey=6iv40j546o2cvjkrpp046x12x&st=foldd4hx&dl=1" },
-    { lat: 2.32388, lng: 102.32127, title: "CANSELORI ARAS 1", check: 16, imgUrl:"https://www.dropbox.com/scl/fi/3pb70s4hqu9s2t4nvco7l/16.jpg?rlkey=ac7a62kui54ishtjp823urgia&st=qxm10n5o&dl=1" },
+    { lat: 2.31388, lng: 102.32127, title: "CANSELORI ARAS 1", check: 16, imgUrl:"https://www.dropbox.com/scl/fi/3pb70s4hqu9s2t4nvco7l/16.jpg?rlkey=ac7a62kui54ishtjp823urgia&st=qxm10n5o&dl=1" },
     { lat: 2.31382, lng: 102.32126, title: "LOBBY CANSELORI", check: 16, imgUrl: "https://www.dropbox.com/scl/fi/5jqy9pofzfsjno1q9g1nl/17.jpg?rlkey=1jmstl0w1ey5djnwgmwp7ny9v&st=5aozisg1&dl=1" },
     { lat: 2.31376, lng: 102.32174, title: "PEJABAT NC", check: 17},
     { lat: 2.31343, lng: 102.32081, title: "HEPA(ATM)", check: 18, imgUrl: "https://www.dropbox.com/scl/fi/9ntm562be2gl5nrlnv1zj/19.jpg?rlkey=yqmcgadf46xinbryypo3jflja&st=osedw54q&dl=1" },
